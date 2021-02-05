@@ -26,4 +26,12 @@
     &__paragraph {
         font-size: 12px;
     }
+    &__link {
+        border: none;
+        background-color: #333;
+        color: white;
+        padding: 8px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
 }
